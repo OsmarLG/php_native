@@ -1,0 +1,9 @@
+{
+    "name": "vendor/projects",
+    "autoload": {
+        "psr-4": {
+            "Vendor\\Projects\\": "src/"
+        }
+    },
+    "require": {}
+}
